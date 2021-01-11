@@ -1,2 +1,2 @@
 # SemVer
-![Swift](https://github.com/vitali-kurlovich/SemVer/workflows/Swift/badge.svg)
+![Swift](https://github.com/wimix-dev/SemVer/workflows/Swift/badge.svg)
